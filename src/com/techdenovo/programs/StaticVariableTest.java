@@ -1,5 +1,6 @@
 package com.techdenovo.programs;
 
+//Author: Kalyan Mazumder
 public class StaticVariableTest {
 	
 	void function1() {
